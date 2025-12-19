@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 171e104f0e5a74a4db7225423b1e9e92, type: 3}
+  m_Name: ColorPresetList
+  m_EditorClassIdentifier: 
+  presets:
+  - presetName: Purple
+    imageColor: {r: 0.48235294, g: 0.32156864, b: 0.8, a: 1}
+    textColor: {r: 0.9, g: 0.9, b: 0.9, a: 1}
+  - presetName: White
+    imageColor: {r: 0.9, g: 0.9, b: 0.9, a: 1}
+    textColor: {r: 0.1, g: 0.1, b: 0.1, a: 1}

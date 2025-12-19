@@ -1,0 +1,27 @@
+{
+    "name": "NomSeekVRC.VizVid",
+    "rootNamespace": "",
+    "references": [
+        "UdonSharp.Runtime",
+        "NomSeekVRC",
+        "JLChnToZ.VVMW",
+        "JLChnToZ.VRC.Foundation"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "NOMSEEK_VIZVID"
+    ],
+    "versionDefines": [
+        {
+            "name": "idv.jlchntoz.vvmw",
+            "expression": "",
+            "define": "NOMSEEK_VIZVID"
+        }
+    ],
+    "noEngineReferences": false
+}

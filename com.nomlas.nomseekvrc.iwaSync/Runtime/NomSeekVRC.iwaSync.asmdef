@@ -1,0 +1,18 @@
+{
+    "name": "NomSeekVRC.iwaSync",
+    "rootNamespace": "",
+    "references": [
+        "UdonSharp.Runtime",
+        "NomSeekVRC",
+        "HoshinoLabs.IwaSync3.Udon"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
