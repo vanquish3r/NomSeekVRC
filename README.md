@@ -1,14 +1,14 @@
 # NomSeek For VRC
-### [VPM](https://nomlasvrc.github.io/nomlas-package-listing/)
+### [VPM追加はこちら](https://nomlasvrc.github.io/nomlas-package-listing/)
 ![GitHub Release](https://img.shields.io/github/v/release/nomlasvrc/NomSeekVRC)
 ![GitHub License](https://img.shields.io/github/license/nomlasvrc/NomSeekVRC)
 
 VRChatワールド向けの動画検索アセットです。
 
 ### 対応プレイヤー
-[iwaSync3](https://hoshinolabs.booth.pm/items/2666275)  
-[YamaPlayer](https://github.com/koorimizuw/YamaPlayer)  
-[VizVid](https://github.com/JLChnToZ/VVMW)  
+- [iwaSync3](https://hoshinolabs.booth.pm/items/2666275)  
+- [YamaPlayer](https://github.com/koorimizuw/YamaPlayer)  
+- [VizVid](https://github.com/JLChnToZ/VVMW)
 
 ### 使い方
 1. [VPM](https://nomlasvrc.github.io/nomlas-package-listing/)に追加
