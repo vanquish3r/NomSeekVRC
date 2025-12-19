@@ -12,8 +12,13 @@ VRChatワールド向けの動画検索アセットです。
 
 ### 使い方
 1. [VPM](https://nomlasvrc.github.io/nomlas-package-listing/)に追加
-2. インポートし、VRCURLを生成
-3. enjoy!
+2. VCCやALCOMでインポート
+3. `NomSeek For VRC/Runtime`にある`VRCURL Setter.prefab`を開く
+4. 画面の指示に従い、VRCURLを生成した後、prefabを保存
+5. `NomSeekForVRC.prefab`をシーン上に配置
+6. Connectorを指定
+> [!IMPORTANT]
+> 上記の指示に従わないと、大量の（デフォルトでは10000個）VRCURLが、prefabではなくシーンに保存されます。Unityエディターが非常に重くなりますので、上記の指示に従って使用することを強くお勧めします。
 
 ### 免責事項
 本アセットは、Lamp氏が提供する「VRChat YouTube Search API」を使用しています。
